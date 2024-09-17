@@ -128,7 +128,3 @@ For any questions or feedback, feel free to reach out:
 This project is developed and maintained by **Sharad Patidar**. I am passionate about creating digital solutions that help businesses optimize their operations.
 
 Thank you for checking out this project! I hope it proves useful for managing your inventory. 😊✨
-
----
-
-You can adjust the screenshot image links to the actual paths once you have them hosted. Let me know if you'd like further edits!
